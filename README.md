@@ -1,5 +1,5 @@
-# Salesforce-Prodcuntion-Class-File-Delete
-Salesforce production class file delete guide for windows & workbench
+# Salesforce delete class from production guide
+Salesforce delete class from production guide for windows & workbench
 
 ### Create a package.xml file
 ![packageSettings](https://user-images.githubusercontent.com/36221407/67159192-91419780-f37c-11e9-813a-7d5b5e334bfe.PNG)
