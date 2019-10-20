@@ -19,6 +19,8 @@ Salesforce delete class from production guide for windows & workbench
 ![Result](https://user-images.githubusercontent.com/36221407/67159221-d796f680-f37c-11e9-9f9c-907858657106.PNG)
 
 
-### Created by : Sungho ,Jo (calljsh92@gmail.com)
+### Created by 
+Sungho ,Jo (calljsh92@gmail.com)
 
-### Reference : https://developer.salesforce.com/docs/atlas.en-us.api_meta.meta/api_meta/meta_deploy_deleting_files.htm
+### Reference 
+https://developer.salesforce.com/docs/atlas.en-us.api_meta.meta/api_meta/meta_deploy_deleting_files.htm
