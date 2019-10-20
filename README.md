@@ -1,5 +1,5 @@
 # Salesforce-Prodcuntion-Class-File-Delete
-Salesforce Production Class File Delete
+Salesforce production class file delete guide for windows & workbench
 
 ### Create a package.xml file
 ![packageSettings](https://user-images.githubusercontent.com/36221407/67159192-91419780-f37c-11e9-813a-7d5b5e334bfe.PNG)
@@ -17,3 +17,8 @@ Salesforce Production Class File Delete
 
 ### Result
 ![Result](https://user-images.githubusercontent.com/36221407/67159221-d796f680-f37c-11e9-9f9c-907858657106.PNG)
+
+
+### Created by : Sungho ,Jo (calljsh92@gmail.com)
+
+### Reference : https://developer.salesforce.com/docs/atlas.en-us.api_meta.meta/api_meta/meta_deploy_deleting_files.htm
